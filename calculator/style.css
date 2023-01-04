@@ -1,0 +1,46 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    box-sizing: border-box;
+    background-color: rgb(49, 43, 38);
+    
+  }
+  .button{
+    font-weight: bolder;
+    font-size: large;
+    width: 66px;
+    padding:20px;
+    margin: 0 2px;
+    border:2px solid black;
+    border-radius:9px;
+    cursor:pointer;
+    
+  }
+  .row{
+    margin:8px 0;
+  }
+  .row input{
+    width: 291px;
+    height: 40px;
+    font-size: 20px;
+    margin: 0;
+    padding: 19px px;
+    border: 2px solid black;
+  }
+  .center{
+    text-align: center;
+  }
+  .bg-red{
+    background-color:rgb(216, 175, 175);
+    text-align:center;
+    border: 1px solid black;
+    width: 390px;
+    
+  }
+  .marg{
+    margin:auto;
+  }
+  .m-w-20{
+    max-width:20;
+    
+  }
